@@ -1,2 +1,0 @@
-This is a corona virus tracker map where the description of total cases and recovered cases of a particular country is shown.
-This project is made using React js. The main concepts used in this are Hooks, Material UI, Chart Js.
